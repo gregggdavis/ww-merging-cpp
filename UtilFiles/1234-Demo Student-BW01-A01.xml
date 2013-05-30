@@ -1,0 +1,38 @@
+<!DOCTYPE merge SYSTEM 'merge.dtd' >
+<WhalesWebAssignment>
+  <firstName>Demo</firstName>
+  <lastName>Student</lastName>
+  <wholeName>Demo Student</wholeName>
+  <email>k-uchida@mitsue.co.jp</email>
+  <studentNumber>1234</studentNumber>
+  <courseNumber>BW01</courseNumber>
+  <assignmentNumber>A01</assignmentNumber>
+  <date>Monday, August 2, 2004 at 00:33:35</date>
+  <assignmentText>[SAMPLE STUDENT ASSIGNMENT - Uncorrected]
+
+
+[Type Date]
+
+Frans Hendrick
+Leipziger Strasse 169
+01139 Dusseldorf
+Germany
+
+Dear Mr. Frans Hendrick:
+
+I thank you very much for your kind letter of [Date], in which you asked me to send to you brochures on our newest products.
+
+I sent your letter to Europe office, and they will take care of it.
+
+I will not send you the price lists, however.  Go to one of our retailers for that information.
+
+Respectfully yours,
+
+
+Your Name
+Your Position
+
+cc:	Karl Schmidt
+    European Office</assignmentText>
+</WhalesWebAssignment>
+
