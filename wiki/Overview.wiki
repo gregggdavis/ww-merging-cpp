@@ -3,7 +3,7 @@
 
 = Introduction =
 
-Merging for WhlsWb - Use the newest code here under the Trunk--> *ww-merging-cpp*
+Merging for Whls Wb - Use the newest code here under the Trunk--> *ww-merging-cpp*
 
 = Details =
 
