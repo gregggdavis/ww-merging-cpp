@@ -1,0 +1,10 @@
+# Introduction #
+
+Merging for Whls Wb - Use the newest code here under the Trunk--> **ww-merging-cpp**
+
+# Details #
+
+This program compiles on Windows 7 with:
+  * Microsoft C++ .NET Visual Studio 2012
+    * MFC
+    * .NET Framework - NONE
